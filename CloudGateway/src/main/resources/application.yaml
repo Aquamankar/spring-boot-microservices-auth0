@@ -55,7 +55,7 @@ spring:
       client:
         registration:
           auth0:
-            client-id: JxE4FWOAudT8DopBSkkbGJlDafjZutTr
+            client-id: oJxE4FWOAudT8DopBSkkbGJlDafjZutTr
             client-secret: b5qGixS8iFTsFK4vZHGCc0IBqrKiQppKa58YbTJg9kVnnfq01UrVmjMkpvz6nOqj
             scope: openid, email, profile, offline_access, Customer, Admin
             authorization-grant-type: authorization_code  # ✅ Ensure it's `authorization_code`
